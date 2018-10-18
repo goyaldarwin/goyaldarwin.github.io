@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97ffbfae-cf1c-489c-9bf7-dbac31f805e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="646" />
+          <entry key="html" value="664" />
           <entry key="yml" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="646" />
+          <entry key="HTML" value="664" />
           <entry key="YAML" value="101" />
         </counts>
       </usages-collector>
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="443">
+              <caret line="90" column="100" lean-forward="true" selection-start-line="90" selection-start-column="100" selection-end-line="90" selection-end-column="100" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#5491#5497#0" expanded="true" />
@@ -148,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539860130240</updated>
       <workItem from="1539860131946" duration="2785000" />
-      <workItem from="1539867406511" duration="142000" />
+      <workItem from="1539867406511" duration="374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2927000" />
+    <option name="totallyTimeSpent" value="3159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="985" extended-state="0" />
@@ -190,8 +189,8 @@
     <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="443">
+          <caret line="90" column="100" lean-forward="true" selection-start-line="90" selection-start-column="100" selection-end-line="90" selection-end-column="100" />
           <folding>
             <element signature="n#style#0;n#p#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#5491#5497#0" expanded="true" />
